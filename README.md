@@ -3,7 +3,7 @@
 
 --It is used to list out our todos in our dailylife.
 
-##Setting Up an Environment
+## Setting Up an Environment
 <h5>--To store the list of items as an array in the mongoDB Atlas in cloud. So that, it doesnt need our local machine to store the data.</h5>
 <h5><b>--How to set up MongoDB Atlas</b></h5>
  <h5>-->we need to register and then create a project under that project create a new cluster of any cloud which is free and then enter the login details like username and password and then add anywhere address to whilelist ip address.</h5>
