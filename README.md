@@ -14,7 +14,7 @@
 HTML,CSS,BootStrap, Node.JS,Express.JS,MongoDB Atlas,Heroku...
 
 ## Deployment
--->link::https://todolist-shankar.herokuapp.com/
+Deployed website : https://todolist-shankar.herokuapp.com/
 
 ## Authors
 
